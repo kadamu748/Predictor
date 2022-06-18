@@ -11,7 +11,7 @@ PAGES = {
     "PCOS Predictor":app1 ,
     "Breast Cancer Predictor" : app2,
     "Heart Disease Predictor":app3 ,
-    "Covid-19 predictor ": app4,
+    "Pre-cancerous Lesions predictor ": app4,
 
 
 
